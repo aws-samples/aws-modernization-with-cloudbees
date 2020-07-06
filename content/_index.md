@@ -18,9 +18,3 @@ At your company, Mythical Mysfits, you are launching a new product and your miss
 - How to set up configuration-as-code for your CI/CD tooling (CloudBees CI)
 - How to templatize CI/CD pipelines to conform with best practices.  Providing CI/CD as a service for end users
 - Ensuring governance and standardization while also empowering developer, security and operations teams by running Jenkins at scale
-
-{{% notice warning %}}
-<p style='text-align: left;'>
-The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
-</p>
-{{% /notice %}}
