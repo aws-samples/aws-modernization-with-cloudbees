@@ -1,7 +1,7 @@
 
 
-# aws-modernization-with-cloudbees
+# AWSWorkshop.io base workshop 
 
-This is aws-modernization-with-cloudbees
+This is a base workshop.  Clone and start from this repo to create your workshop.
 
 
