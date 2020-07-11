@@ -1,7 +1,7 @@
 +++
-title = "CloudBees Field Workshop Setup"
+title = "Setup"
 chapter = true
-weight = 20
+weight = 2
 +++
 
 # CloudBees Field Workshop Setup

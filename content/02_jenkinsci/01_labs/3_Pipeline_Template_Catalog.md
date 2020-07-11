@@ -1,7 +1,7 @@
 +++
 title = "Pipeline Template Catalogs"
 chapter = true
-weight = 3
+weight = 40
 +++
 
 # CloudBees CI - Pipeline Template Catalogs

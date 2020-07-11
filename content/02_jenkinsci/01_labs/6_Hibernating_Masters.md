@@ -1,7 +1,7 @@
 +++
 title = "Hibernating Masters"
 chapter = true
-weight = 6
+weight = 70
 +++
 
 # CloudBees CI - Hibernating Masters

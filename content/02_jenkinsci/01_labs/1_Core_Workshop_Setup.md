@@ -1,7 +1,7 @@
 +++
 title = "CloudBees Core Workshop Set-up"
 chapter = true
-weight = 1
+weight = 20
 +++
 
 

@@ -1,7 +1,7 @@
 +++
 title = "Configuration as Code (Casc) for CloudBees CI"
 chapter = true
-weight = 2
+weight = 30
 +++
 
 # GitOps for CloudBees CI (CasC)

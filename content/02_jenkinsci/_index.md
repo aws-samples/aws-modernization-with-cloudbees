@@ -1,7 +1,7 @@
 ---
-title: "CloudBees CI Workshop on EKS"
+title: "Module 2"
 chapter: true
-weight: 1
+weight: 3
 ---
 
 # CloudBees CI Workshop on EKS
