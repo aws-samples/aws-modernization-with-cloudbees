@@ -1,5 +1,5 @@
 ---
-title: "Module 1"
+title: "Module 1: CI/CD with EKS and Jenkins X"
 chapter: true
 weight: 2
 ---
