@@ -1,7 +1,7 @@
 +++
 title = "Cross Team Collaboration"
 chapter = true
-weight = 5
+weight = 60
 +++
 
 # CloudBees CI - Cross Team Collaboration

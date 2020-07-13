@@ -1,7 +1,7 @@
 +++
 title = "CloudBees CI Labs"
 chapter = true
-weight = 30
+weight = 10
 +++
 
 # CloudBees CI Labs
