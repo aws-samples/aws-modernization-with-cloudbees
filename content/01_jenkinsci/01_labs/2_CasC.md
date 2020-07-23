@@ -35,6 +35,6 @@ In this lab we will practice [GitOps](https://www.gitops.tech/) with [Configurat
 
 >NOTE: The **Build strategies** configuration for Pipeline Organization Folder and Multibranch projects are provided by the [Basic Branch Build Strategies plugin](https://github.com/jenkinsci/basic-branch-build-strategies-plugin/blob/master/docs/user.adoc) and by selecting the *Skip initial build on first branch indexing* strategy we avoid an unnecessary build when we first create the Organization Folder project above.
 
-**For instructor led workshops please returns to the [workshop slides](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#26)**
+**For instructor led workshops please returns to the [workshop slides](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#25)**
 
 Otherwise, you may proceed to the next lab: [*Pipeline Template Catalogs*](../01_labs/3_pipeline_template_catalog.html) or choose another lab on the [Main Lab Page](../01_labs.html).
