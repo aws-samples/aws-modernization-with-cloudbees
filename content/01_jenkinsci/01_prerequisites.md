@@ -14,3 +14,6 @@ weight = 1
 - A basic understanding of Jenkins Pipelines: https://jenkins.io/doc/book/pipeline/getting-started/
 - A basic understanding of feature flags: https://rollout.io/blog/ultimate-feature-flag-guide/
 - Finally, we highly recommend using the Google Chrome browser to work through the lab content.
+
+### At this point please navigate to the slide material.  The slides will serve as supplemental material throughout the labs.  Additionally there will be links to easily navigate between the slides and lab materials. 
+### - [SLIDES](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#1)
