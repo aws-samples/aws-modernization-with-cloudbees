@@ -29,6 +29,6 @@ In this lab you will create a [Pipeline Policy](https://docs.cloudbees.com/docs/
 9. On the next screen, click the **Run Catalog Import Now** link.  <p><img src="../../images/click-import-link.png" width=800/>
 10. After the import is complete, navigate back to the **master** branch job for the **microblog-frontend** Mutlibranch project and click the **Build Now** link in the left menu. The build will complete successfully and the logs for that build will show that the Pipeline policy validated successfully. <p><img src="../../images/pipeline-policy-success.png" width=600/>
 
-**For instructor led workshops please return to the [workshop slides](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#37).**
+**For instructor led workshops please return to the [workshop slides](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#36).**
 
 You may proceed to the next lab: [*Cross Team Collaboration*](../01_labs/5_cross_team_collab.html) or choose another lab on the [Main Lab Page](../01_labs.html).

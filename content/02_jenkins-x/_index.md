@@ -1,7 +1,7 @@
 ---
-title: "Module 1: CI/CD with EKS and Jenkins X"
+title: "Module 2: CI/CD with EKS and Jenkins X"
 chapter: true
-weight: 2
+weight: 3
 ---
 
 # Continuous Delivery with EKS and Jenkins X

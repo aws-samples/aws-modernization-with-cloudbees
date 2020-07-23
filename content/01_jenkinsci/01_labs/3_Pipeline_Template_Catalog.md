@@ -45,6 +45,6 @@ In this lab you will create a new Multibranch Pipeline job from the **VueJS** te
 12. Finally, on the pull request page for your **Add marker file** pull request click on the **Conversation** tab and scroll down to the pull request checks. After the **PR-1** pipeline job completes you will see that all the checks are now successful, scroll to the bottom and click the green **Merge pull request** button and then the **Confirm merge** button to merge the pull request to your **master** branch.<p><img src="../../images/pr-checks-success.png" width=800/>
 
 
-**For instructor led workshops please returns to the [workshop slides](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#31).**
+**For instructor led workshops please returns to the [workshop slides](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#30).**
 
 Otherwise, you may proceed to the next lab: [*CloudBees Pipeline Policies*](../01_labs/4_pipeline_policies.html) or choose another lab on the [Main Lab Page](../01_labs.html).

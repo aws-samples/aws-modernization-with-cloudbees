@@ -1,11 +1,13 @@
 ---
 
-title: "Module 2: CloudBees CI Workshop on EKS"
+title: "Module 1: CloudBees CI Workshop on EKS"
 chapter: true
-weight: 3
+weight: 2
 ---
 
 # CloudBees CI Workshop on EKS
+
+<p><img src="../images/EKS-CloudBees.png" width=800/>
 
 ### Welcome
 

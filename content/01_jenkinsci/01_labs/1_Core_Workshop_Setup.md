@@ -6,11 +6,10 @@ weight = 20
 
 
 # CloudBees CI Workshop Set-up
-In this lab you will setup a work environment for the CloudBees CI labs.  Ask the instructor for the URL of the server you will be using for the CI Workshop.
 
 <a href="https://youtu.be/AZetQJYIKU4" target="_blank">Instructor led video of lab.</a>
 
-Today's URL for the CloudBees CI Workshop environment will be provided by your instructor. If you haven't already signed up for an account then follow [these instructions](../workshop-setup/workshop-setup.md) and then come back to the *CI Workshop Set-up*.
+Today's URL for the CloudBees CI Workshop environment will be https://ci.aws.cbws.io/cjoc/ this is a CloudBees CI instance installed on EKS. From here you will create a login for CloudBees CI and then return to the *CI Workshop Set-up*..  This login will be used to create your own Jenkins master for the purposes of the labs.
 
 ### Login to CloudBees CI
 
@@ -67,6 +66,6 @@ You should see the following Blue Ocean **Pipelines** screen with a Pipeline nam
 5. Blue Ocean will automatically switch to the Pipeline **Activity** screen, click anywhere on the Pipeline run row to see the Pipeline run and view the logs. But make sure you don't click on the **Stop** button to the right of the red box in the screenshot below.<p><img src="../../images/workshop-setup-activity.png" width=600/>
 6. Once the **core-workshop-setup** Pipeline job completes successfully your Team Master will be restarted so you should see a **Connect lost: waiting** alert in the bottom right of your Blue Ocean screen. <p><img src="../../images/workshop-setup-connection-lost.png" width=600/> <p>You may also experience a **503 Service Temporarily Unavailable** screen - that is because the actual Kubernetes Pod that your Team Master is running in is being re-created. Your Team Master will return in a few minutes.
 
-**For instructor led workshops please returns to the [workshop slides](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#16).**
+**For instructor led workshops please returns to the [workshop slides](https://cloudbees-ci-aws-workshop.github.io/core-rollout-flow-workshop/core/#15).**
 
 Otherwise, you may proceed to the next lab: [Configuration as Code (CasC) for CloudBees CI] (../01_labs/2_casc.html) where we will explore your individual fork of the **core-config-bundle** repository or choose another lab on the [Main Lab Page](../01_labs.html).
