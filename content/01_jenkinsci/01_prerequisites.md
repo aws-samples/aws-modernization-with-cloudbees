@@ -4,7 +4,7 @@ chapter = true
 weight = 1
 +++
 
-# Module 2 - Workshop PreRequisites
+# Module 1 - Workshop PreRequisites
 
 - Internet access to include access to https://github.com and to include the ability to access and use the GitHub File Editor.
 - Access to https://app.slack.com

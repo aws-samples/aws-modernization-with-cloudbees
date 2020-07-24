@@ -5,7 +5,7 @@ weight = 10
 +++
 
 
-<p><img src="../images/CloudBees-Logo-Horizontal-Full-Color+Tag.png" width=800/>
+<p><img src="../../images/CloudBees-Logo-Horizontal-Full-Color+Tag.png" width=800/>
 
 # Lab Guide
 - Lab 1 - Core Workshop Setup
