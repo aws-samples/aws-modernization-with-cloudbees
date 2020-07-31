@@ -1,10 +1,10 @@
 ---
-title: "AWS Continuous Delivery with EKS and Jenkins X"
+title: "Module 2: CI/CD with EKS and Jenkins X"
 chapter: true
-weight: 1
+weight: 3
 ---
 
-# AWS Continuous Delivery with EKS and Jenkins X
+# Continuous Delivery with EKS and Jenkins X
 
 ![EKS and Jenkins X](images/banner.png)
 

@@ -7,7 +7,7 @@ weight = 1
 +++
 
 
-Part of our scenario is to configure Jenkins X with a custom domain.  To do this, we must first configure a Route 53 Managed Zone then delegate your subdomain to Route 53.  In my case, my domain is managed by Google Domains, and so I’ve created an NS record pointing to the NS servers given to me by Route 53 after I created my Hosted Zone.
+Part of our scenario is to configure Jenkins X with a custom domain.  To do this, we must first configure a Route 53 Managed Zone then delegate your subdomain to Route 53.  My domain is hosted elsewhere with an NS record delegated to route53.
 
 
 ## Create a Managed Zone for subdomain
