@@ -1,28 +1,17 @@
 ---
-title: "Welcome"
+title: "CloudBees CI Workshop"
 chapter: true
 weight: 1
 ---
 
-# Welcome
+# AWS Marketplace DevOps Workshop Series Hands-on Lab with CloudBees CI
 
-We have two excellent modules to help you implement CI/CD on EKS.  Module 1 focuses on CI/CD using CloudBees CI an enterprise grade version of Jenkins on EKS.  Core allows users to tackle enterprise DevSecOps challenges with industry leading automation within Jenkins.  
+![CloudBees Logo](/images/cloudbees-logo.png)
 
-Module 2 focuses on CI/CD using the Kubernetes-native CI/CD Jenkins X platform.
+### Welcome
 
-![CloudBees CI and EKS](images/Banner-CB.png)
-## Module 1 - CloudBees CI Workshop on EKS
+This hands-on lab is part of the AWS Marketplace DevOps Workshop Series.
 
-In this workshop we will learn some best practices around CI/CD that will allow you to rapidly deliver features that will help differentiate your business and reduce time-to-market. 
+CloudBees CI is available in AWS Marketplace. AWS Marketplace is a digital software catalog that makes it easy to find, try, buy, deploy, and manage software that runs on AWS. AWS Marketplace has a broad and deep selection of ISV solutions that can help you build your ideal DevOps toolchain in the cloud.
 
-At your company, Mythical Mysfits, you are launching a new product and your mission is to deliver that product as reliably, quickly and efficiently as you can—while delivering features that set your company apart. Using CloudBees CI, you will configure and manage your own Jenkins server on EKS. This master will build, test and deploy a production-ready application on Amazon EKS. In addition, it will publish, create and push all the infrastructure-as-code requirements for your application to GitHub. This promotes the best practices of DevSecOps combined with GitOps.
-
-![EKS and Jenkins X](images/banner.png)
-## Module 2 - CI/CD with EKS and Jenkins X
-
-In this workshop you will learn how to quickly get up and running using EKS and Jenkins X, the Kubernetes-native CI/CD platform of choice. We'll explore how to create a fully operational continuous delivery pipeline using Docker containers, EKS, Jenkins X, and quite a few other tools to establish your Kubernetes-native CI/CD process.
-
-All with the goal of having your developers focus on delivering features fast!
-
-At the end of this workshop, you will have learned how to get up and running with EKS and Jenkins X, run your apps through CI/CD in Jenkins X and publish them to a staging environment.
-
+<a href="https://aws.amazon.com/marketplace/pp/prodview-qndwizvyhl73i?trk=el_a134p000003yrYeAAI&trkCampaign=AWSMP_pdp_dev_x_dg&sc_channel=el&sc_campaign=el_awsmp_mult&sc_outcome=Marketplace" target="_blank"><img src="/images/cloudbees-available-in-aws-marketplace-badge.png"></a>
