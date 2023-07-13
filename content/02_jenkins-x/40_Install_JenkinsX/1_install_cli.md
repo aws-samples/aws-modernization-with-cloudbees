@@ -19,7 +19,7 @@ There are binaries for various platforms including Linux and OS X.  In this scen
 Download the jx binary archive by downloading the latest version using your web browser or by command-line using curl and pipe (|) the compressed archive to the tar command:
 
 ```bash
-curl -L https://storage.googleapis.com/artifacts.jenkinsxio.appspot.com/binaries/cjxd/latest/jx-darwin-amd64.tar.gz | tar xzv
+curl -L [need new link] | tar xzv
 ```
 
 ### Step 2 - Move binary to bin
